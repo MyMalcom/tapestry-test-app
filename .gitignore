@@ -6,4 +6,4 @@
 *.ear
 
 *.iml
-/.idea
+.idea/
